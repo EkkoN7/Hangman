@@ -15,3 +15,5 @@ A simple Hangman game.
   * **Word Source:** Words are automatically generated via the [Random Word API](https://random-word-api.herokuapp.com).
   * **Hangman Art:** The Hangman ASCII art is sourced from [this Gist](https://gist.github.com/chrishorton/8510732aa9a80a03c829b09f12e20d9c) by chrishorton.
   * **Title Design:** The title's ASCII art was created using [this generator](https://budavariam.github.io/asciiart-text/).
+
+![Screenshot des Spiels](Screenshot.png)
