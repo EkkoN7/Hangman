@@ -1,4 +1,9 @@
-**# Hangman**
+  _   _                                         
+ | | | | __ _ _ __   __ _ _ __ ___   __ _ _ __  
+ | |_| |/ _` | '_ \ / _` | '_ ` _ \ / _` | '_ \ 
+ |  _  | (_| | | | | (_| | | | | | | (_| | | | |
+ |_| |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
+                    |___/      
 A simple Hangman game. 
 
 Words are automatically generated via [https://random-word-api.herokuapp.com](https://random-word-api.herokuapp.com).
