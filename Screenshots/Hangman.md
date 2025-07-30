@@ -64,4 +64,4 @@ if player_guess in secret_word: # Changed from word_list to secret_word for accu
   * **Title Design:** The ASCII art for the game's title was created using [this generator](https://budavariam.github.io/asciiart-text/).
 
 -----
-![Screenshot](Screenshots/Hangman.png)
+![Screenshot](../../Portfolio/Screenshots/Hangman.png)
